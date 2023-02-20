@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<OpenSearchDescription>
+<ShortName>RARBG.com</ShortName>
+<Description>Search torrents on RARBG.com</Description>
+<Url template="http://rarbg.com/torrents.php?search={searchTerms}"/>
+</OpenSearchDescription>
